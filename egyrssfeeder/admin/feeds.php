@@ -118,7 +118,7 @@ function rssfeed($egyarray){
 
 function inspost($egyarray,$item){
 	$postID = post_exists($item->title); // check if post is inserted in wordpress database
-	var_dump($item);
+	//var_dump($item);
 	if($postID != 0){
 		echo "Not stored in wordpress";
 	}else{
