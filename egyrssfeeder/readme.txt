@@ -1,4 +1,4 @@
-    === Plugin Name ===
+=== Plugin Name ===
 
     Contributors: ghost5egy
     Plugin Name: egyrssfeeder
@@ -11,3 +11,15 @@
     Tested up to: 1
     Stable tag: 1
     Version: 1
+
+== Description ==
+egyrssfeeder is a free wordpress pugin to add posts to your website other sources rss link 
+
+
+== Installation ==
+
+just upload files to your plugins folder then activate the plugin from wordpress dashboard
+
+== Donations ==
+
+https://www.paypal.me/AhmedS71
